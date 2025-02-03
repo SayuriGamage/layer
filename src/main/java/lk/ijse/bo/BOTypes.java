@@ -1,5 +1,5 @@
-package lk.ijse.bo.impl;
+package lk.ijse.bo;
 
 public enum BOTypes {
-    Condemnedbo,Employeebo,Equipmentbo,Maintenancebo,Paymentbo,Orderbo,Sparepartsbo,Supplierbo,Querybo,userbo
+   Employee
 }

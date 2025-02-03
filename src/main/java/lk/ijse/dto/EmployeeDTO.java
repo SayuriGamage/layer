@@ -1,4 +1,4 @@
-package lk.ijse.DTO;
+package lk.ijse.dto;
 
 public class EmployeeDTO {
     private String id;

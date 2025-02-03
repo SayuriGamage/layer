@@ -1,4 +1,4 @@
-package lk.ijse.model.tm;
+package lk.ijse.tm;
 
 import lombok.*;
 

@@ -2,7 +2,6 @@ package lk.ijse.db;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
-import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
 public class DbConnection {
@@ -11,7 +10,7 @@ public class DbConnection {
 
     private DbConnection() throws SQLException {
         connection = DriverManager.getConnection(
-                "jdbc:mysql://localhost:3306/gdse69",
+                "jdbc:mysql://localhost:3306/layer",
                 "root",
                 "Ijse@123"
         );
